@@ -20,4 +20,9 @@ The [Mozilla Developer Network HTML reference guide](https://developer.mozilla.o
 - **Web Components**: *Web Components is an HTML-related technology which makes it possible to, essentially, create and use custom elements as if it were regular HTML. In addition, you can create custom versions of standard HTML elements.*
 
 Visit the [Mozilla Developer Network HTML reference guide](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) to view a list of elements for each section.
+
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-html-elements/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-html-elements/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG HTML elements types overview</p>
